@@ -23,6 +23,7 @@
 3. ```PIL``` (very interesting module)
 4. ```tkinter```(as if you can make GUI without this)
 5. ```win32gui```(I've used pywin32 btw)
+6. ```tensorflow```(Also important)
 
 ### How to run
 
