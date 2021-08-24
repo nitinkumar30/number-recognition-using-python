@@ -32,9 +32,14 @@ Step 4. Run the file [](gui_digit_recognizer.py)
 ### Screenshots
 
 1. The error which I got while running in PyCharm after update (This is necessary for a programmer I guess)
+![image](https://user-images.githubusercontent.com/40369168/130669652-7c8a38dc-86b9-4ab2-a2d3-ff03b4a835ea.png)
 
 
 2. This is the first GUI you'll see after running the file
+![image](https://user-images.githubusercontent.com/40369168/130669718-fcd20ed0-e6af-4b05-9de7-b05e86e75ec2.png)
 
 
 3. This is the result you'll got(I've got, you'll also get I'm sure)
+![image](https://user-images.githubusercontent.com/40369168/130669879-ab9320c1-c183-43fc-9ab5-74c3f6fa94ff.png)
+
+![image](https://user-images.githubusercontent.com/40369168/130669940-e5250e97-645a-46a2-acb3-ff131fab2e9a.png)
