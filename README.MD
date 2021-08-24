@@ -3,8 +3,7 @@
 > Recognize number with accuracy percentage in GUI  
 
 
-![number-recognition-using-python](https://user-images.githubusercontent.com/40369168/130673618-0d1aba9a-f45e-4f09-8753-2dbd6d8766c9.gif)
-
+![number-recognition-using-python](https://user-images.githubusercontent.com/40369168/130673892-fdf9e202-100a-415e-96de-97b89ea182ad.gif)
 
 
 ### Features
