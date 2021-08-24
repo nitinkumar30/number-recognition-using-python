@@ -2,7 +2,6 @@
 
 > Recognize number with accuracy percentage in GUI
 
-![image](https://user-images.githubusercontent.com/40369168/130670586-5901cfae-5917-4e0a-a686-3e9fdefa7ec2.png)
 
 
 ### Features
