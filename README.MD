@@ -31,7 +31,7 @@
 Step 1. **Extract the repository**  
 Step 2. **Open this project with PyCharm Community(I use this)**  
 Step 3. **Install all above modules/libraries**  
-Step 4. **Run the file (https://github.com/nitin30kumar/number-recognition-using-python/blob/main/gui_digit_recognizer.py)[gui_digit_recognizer.py]**  
+Step 4. **Run the file** (https://github.com/nitin30kumar/number-recognition-using-python/blob/main/gui_digit_recognizer.py)[gui_digit_recognizer.py]  
 
 ### Screenshots
 
