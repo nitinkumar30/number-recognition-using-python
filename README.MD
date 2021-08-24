@@ -8,10 +8,10 @@
 
 ### Features
 
-- Added dataset. No need to set anything new.
-- Added dll file too.
-- Attached mnist file for data.
-- Can recognize numbers only as of now.
+- Added dataset. No need to set any new training data.
+- Added dll file too. Not important as of now here.
+- Attached .mnist file for data retrieval.
+- Can recognize single integer numbers(0-9) only as of now. [single numbers]  
 - Can display the accuracy of the result.
 - You can draw numbers with your mouse.
 
