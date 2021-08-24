@@ -25,7 +25,7 @@
 5. ```win32gui```(I've used pywin32 btw)
 6. ```tensorflow```(Also important)  
 
-- NOTE:-**Please check if I'm forgetting any module/library. I'v forgot them all at once.**  
+- NOTE:-**Please check if I'm forgetting any module/library. I just forgot them all at once.**  
 
 ### How to run
 
